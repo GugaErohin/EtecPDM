@@ -1,6 +1,6 @@
 fun main() {
     // b. Variável mutável capaz de armazenar seu nome completo
-    var nomeCompleto = "Matheus Bento"
+    var nomeCompleto = "Gustavo Erohin"
 
     // c. Variável de texto sem valor inicial
     var textoSemValor: String? = null
